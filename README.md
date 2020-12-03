@@ -8,7 +8,7 @@
 ***
 
 
-To view a live demo, [click here](https://bharadhwaj-g.github.io/portfolio/)
+To view a live demo, [click here](https://akumucollins.github.io/Portfolio)
 
 ---
 
